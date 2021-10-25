@@ -1,2 +1,2 @@
 [dev]
-18.117.238.191 ansible_user=ec2-user
+18.117.238.191 ansible_user=centos
